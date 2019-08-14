@@ -2,7 +2,7 @@
 
 Sitecore Experience Commerce 9 Documentation for eReaders
 
-Official Sitecore Experience Commerce 9 Documentation is in HTML and split into seperate files. This repository contains documentation for three guides which is suitable for eReaders. All HTML pages from official documentation have been merged together and all unneccesary page parts have been removed (left side menu, footer and so on). I have also added table of content.
+Official Sitecore Experience Commerce 9 Documentation is in HTML and split into seperate files. This repository contains documentation for four guides which are suitable for eReaders. All HTML pages from official documentation have been merged together and all unneccesary page parts have been removed (left side menu, footer and so on). I have also added table of content.
 
 Four guides included in this repository and converted for eReaders:
 - SXA Storefront - Taken from https://doc.sitecore.net/sxa_storefront
